@@ -1,4 +1,5 @@
-# Printing a Tic Tac Toe Board
+# Printing a Tic Welcome to Tic Tac Toe
+Tac Toe Board
 
 ## Overview
 
@@ -17,7 +18,6 @@
 A Tic Tac Toe program is going to need to be able to display the current state of the board before every turn so that the player can see the board before deciding what move to make. You could imagine a program working as follows, from a player's perspective.
 
 ```
-Welcome to Tic Tac Toe
    |   |   
 -----------
    |   |   
